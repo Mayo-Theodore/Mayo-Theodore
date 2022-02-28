@@ -6,16 +6,16 @@
     <a href="https://www.linkedin.com/in/mayokun-theodore/">
         <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="http://mayoelith.pythonanywhere.com/">
+<!--     <a href="http://mayoelith.pythonanywhere.com/">
         <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
+    </a> -->
     <a href="https://www.codewars.com/users/Mayo-Theodore">
         <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
   </div>
   <br>
-
-Thanks for visiting my GitHub! [**Click here**](http://mayoelith.pythonanywhere.com/) or see above for a link to my portfolio and CV
+<!-- 
+Thanks for visiting my GitHub! [**Click here**](http://mayoelith.pythonanywhere.com/) or see above for a link to my portfolio and CV -->
 
 </div>
 
