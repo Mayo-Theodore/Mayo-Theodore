@@ -19,11 +19,11 @@ Thanks for visiting my GitHub! [**Click here**](http://mayoelith.pythonanywhere.
 
 </div>
 
-### :star: &nbsp; Motivation
+<!-- ### :star: &nbsp; Motivation
 
 I'm an alumnus of Makers and a full-stack Software Engineer. I have a varied background, having worked most recently within the financial technology sector as an analyst at OpenGamma.
 
-I am passionate about technology and software development, as it allows us to create cutting-edge products and solutions to real-world issues. Learning to program has enhanced my critical thinking and problem-solving skills.
+I am passionate about technology and software development, as it allows us to create cutting-edge products and solutions to real-world issues. Learning to program has enhanced my critical thinking and problem-solving skills. -->
 
 ### 🛠 &nbsp; Projects
 
